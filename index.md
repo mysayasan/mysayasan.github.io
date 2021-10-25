@@ -21,7 +21,7 @@
 <p>Maintain and develop addon page for Kiswire Cord SDN BHD in-house system. Used in sales/shipping to record keyed-in order/shipment and generate reports.
   <br>
   <br>  
-  <b>Coding Language:</b> <i>ASP.NET/C#, Infragistics Components</i>
+  <b>Coding Language:</b> <i>ASP.NET/C#, Infragistics Components</i><br>
   <b>Database:</b> <i>MSSQL, Stored Procedure</i>
 </p>
 
@@ -49,7 +49,7 @@
   Join QLP competition by presenting the project to HOD and get recognition.
   <br>
   <br>  
-  <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i>
+  <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i><br>
   <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
 </p>
 
@@ -64,7 +64,7 @@
   <b>OSes:</b> <i>RHEL 8</i><br>
   <b>Devices:</b> <i>Autonic Sensor, LSIS PLC</i><br>
   <b>Architecture:</b> <i>Microservices, SPA</i><br>
-  <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket</i>
+  <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket</i><br>
   <b>Communication:</b> <i>Ethernet, RS485 for sensor</i><br>
   <b>Database:</b> <i>MySQL, MSSQL (Datalogging)</i>  
 </p>
