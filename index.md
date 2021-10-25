@@ -28,7 +28,7 @@
 ---
 
 <b>KCSB Production System (2010)</b><br>
-<img src="images/kcsb_prod_system_2010.png?raw=true" height="250px" />
+<img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
 <p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory.<br>
   System features includes, production planning, product tracking, product quality checking, shipping and various reports.
   <br>
