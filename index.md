@@ -47,7 +47,11 @@
   <b>Protocols:</b> <i>Modbus TCP</i>
 </p>
 
-## My Infographic
+---
+
+### My Infographic
+
+---
 
 <img src="images/1.png?raw=true"/><br>
 <img src="images/2.png?raw=true"/><br>
