@@ -11,6 +11,7 @@
   <br>
   <br>
   <b>Coding Language:</b> <i>ASP.NET/C#, Javascript</i>
+  <b>Database:</b> <i>MySQL</i>  
 </p>
 
 ---
@@ -21,6 +22,23 @@
   <br>
   <br>  
   <b>Coding Language:</b> <i>ASP.NET/C#, Infragistics Components</i>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>
+</p>
+
+---
+
+<b>KCSB Production System (2010)</b><br>
+<img src="images/kcsb_prod_system_2010.png?raw=true" height="250px" />
+<p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory.<br>
+  System features includes, production planning, product tracking, product quality checking, shipping and various reports.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>C#, DotNet 4.5, Powerbuilder DataWindow.Net, Custom Korean dataview components, ZPL Language</i><br>
+  <b>OSes:</b> <i>Windows 7, Windows CE (PDA)</i><br>
+  <b>Devices:</b> <i>Desktop PC, Symbol MC3090, Zebra ZM400/600 printer, Mettler Toledo floor weighing scale</i><br>
+  <b>Architecture:</b> <i>Client-Server</i><br>
+  <b>Communication:</b> <i>Ethernet, RS232 serial port for weighing</i><br>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
 </p>
 
 ---
@@ -32,6 +50,7 @@
   <br>
   <br>  
   <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
 </p>
 
 ---
@@ -42,8 +61,12 @@
   <br>
   <br>  
   <b>Coding Language:</b> <i>Golang, Plain HTML with Javascript</i><br>
-  <b>Architecture:</b> <i>Autonic Sensor, LSIS PLC, Ethernet, Websocket, Golang Microservice</i><br>
-  <b>Protocols:</b> <i>Modbus TCP</i>
+  <b>OSes:</b> <i>RHEL 8</i><br>
+  <b>Devices:</b> <i>Autonic Sensor, LSIS PLC</i><br>
+  <b>Architecture:</b> <i>Microservices, SPA</i><br>
+  <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket</i>
+  <b>Communication:</b> <i>Ethernet, RS485 for sensor</i><br>
+  <b>Database:</b> <i>MySQL, MSSQL (Datalogging)</i>  
 </p>
 
 ---
