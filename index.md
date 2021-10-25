@@ -1,3 +1,13 @@
+## Infographic
+
+### Introduction & Major Milestone
+
+<img src="images/1.png?raw=true"/><br>
+<img src="images/2.png?raw=true"/><br>
+<img src="images/3.png?raw=true"/><br>
+<img src="images/4.png?raw=true"/><br>
+<img src="images/5.png?raw=true"/><br>
+
 ## Portfolio
 
 ---
