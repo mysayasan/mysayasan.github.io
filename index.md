@@ -43,6 +43,21 @@
 
 ---
 
+### BW Pop station (2013)
+<img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
+<p>Develop POS system alike app, to scan product barcode for start and end process.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>C#, DotNet 4.5</i><br>
+  <b>OS:</b> <i>Windows 7</i><br>
+  <b>Devices:</b> <i>Mini Desktop PC wrapped in Steel panel</i><br>
+  <b>Architecture:</b> <i>Client-Server</i><br>
+  <b>Communication:</b> <i>Ethernet</i><br>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
+</p>
+
+---
+
 ### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
