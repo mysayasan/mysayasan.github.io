@@ -152,7 +152,8 @@
   <b>Architecture:</b> <i>Microservices, SPA</i><br>
   <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket</i><br>
   <b>Communication:</b> <i>Ethernet, RS485 for sensor</i><br>
-  <b>Database:</b> <i>MySQL, MSSQL (Datalogging)</i>  
+  <b>Database:</b> <i>MySQL, MSSQL (Datalogging)</i><br> 
+  <b>Support Software:</b> <i>Mosquitto MQTT Broker, Node-RED, MailServer</i> 
 </p>
 
 ---
