@@ -45,12 +45,29 @@
 
 ### BW Pop station (2013)
 <img src="images/bwpop2_2013.png?raw=true" height="250px" />
-<p>Develop POS system alike app, to scan product barcode for start and end process.
+<p>Develop pop station application, to scan product barcode from start and end process.
   <br>
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5</i><br>
   <b>OS:</b> <i>Windows 7</i><br>
   <b>Devices:</b> <i>Mini Desktop PC wrapped in Steel panel</i><br>
+  <b>Architecture:</b> <i>Client-Server</i><br>
+  <b>Communication:</b> <i>Ethernet</i><br>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
+</p>
+
+---
+
+### E-Coupon V2 (2015)
+<img src="images/ecoupon_v2_2015.png?raw=true" height="250px" />
+<p>Develop POS system alike app, to buy food from the canteen by using fingerprint scanner.<br>
+  Coupon are credited into employee account once completed after 8 hour cycle per day of work,<br>
+  the amount will be deducted once employees place their fingerprint on the device and completed the transaction.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>C#, DotNet 4.5, Biostar API (device interfacing)</i><br>
+  <b>OS:</b> <i>Windows 7</i><br>
+  <b>Devices:</b> <i>Desktop PC, Suprema Biostar, BioLite, BioStation T2</i><br>
   <b>Architecture:</b> <i>Client-Server</i><br>
   <b>Communication:</b> <i>Ethernet</i><br>
   <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
