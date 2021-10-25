@@ -16,7 +16,7 @@
 
 ---
 
-<b>KCSB Sales System (2010)</b><br>
+### KCSB Sales System (2010)
 <img src="images/kcsb_sales_system_2010.png?raw=true" height="250px" />
 <p>Maintain and develop addon page for Kiswire Cord SDN BHD in-house system. Used in sales/shipping to record keyed-in order/shipment and generate reports.
   <br>
@@ -27,7 +27,7 @@
 
 ---
 
-<b>KCSB Production System (2010)</b><br>
+### KCSB Production System (2010)
 <img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
 <p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory.<br>
   System features includes, production planning, product tracking, product quality checking, shipping and various reports.
@@ -43,7 +43,7 @@
 
 ---
 
-<b>[CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)</b><br>
+### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
   Join QLP competition by presenting the project to HOD and get recognition.
@@ -55,7 +55,7 @@
 
 ---
 
-<b>Server Room Temp and Humidity Monitoring (2020)</b><br>
+### Server Room Temp and Humidity Monitoring (2020)
 <img src="images/kiswmon_2020.png?raw=true" height="250px" />
 <p>Develop server temp/humid monitoring app for Server room in Kiswire SEA. Used to alert and monitor current temperature/humid for server rooms to prevent overheat and too humid.
   <br>
