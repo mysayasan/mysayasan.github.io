@@ -35,6 +35,20 @@
   <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i>
 </p>
 
+---
+
+<b>Server Room Temp and Humidity Monitoring (2020)</b><br>
+<img src="images/kiswmon_2020.png?raw=true" height="250px" />
+<p>Develop server temp/humid monitoring app for Server room in Kiswire SEA. Used to alert and monitor current temperature/humid for server rooms to prevent overheat and too humid.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>Golang, Plain HTML with Javascript</i><br>
+  <b>Architecture:</b> <i>Autonic Sensor, LSIS PLC, Ethernet, Websocket, Golang Microservice</i>
+  <b>Protocols:</b> <i>Modbus TCP</i>
+  
+  
+</p>
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
