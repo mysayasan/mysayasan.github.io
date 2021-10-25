@@ -112,7 +112,7 @@
   <br>  
   <b>Coding Language:</b> <i>Golang, Plain HTML with Javascript</i><br>
   <b>OSes:</b> <i>RHEL 8</i><br>
-  <b>Devices:</b> <i>Autonic Sensor, LSIS PLC</i><br>
+  <b>Devices:</b> <i>Autonic Sensor, LSIS PLC (XBC-DR28U)</i><br>
   <b>Architecture:</b> <i>Microservices, SPA</i><br>
   <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket</i><br>
   <b>Communication:</b> <i>Ethernet, RS485 for sensor</i><br>
