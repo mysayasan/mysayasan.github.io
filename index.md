@@ -87,6 +87,21 @@
 
 ---
 
+### Machine Start/Stop Monitoring System (2017)
+<img src="images/mach_start_stop_2017.png?raw=true" height="250px" />
+<p>Develop machine start/stop monitoring system for all factories in Malaysia. The purpose of the system is to analyse the efficiency of the machines and repeated breakdown on the same machine. The program helps increase in productivity and made able to achieve production target.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#), Devexpress component</i><br>
+  <b>OS:</b> <i>Windows 7, Windows Server 2008 R2</i><br>
+  <b>Devices:</b> <i>Desktop PC, Various LSIS PLCs</i><br>
+  <b>Architecture:</b> <i>Client-Server</i><br>
+  <b>Communication:</b> <i>Ethernet, Modbus TCP Protocol</i><br>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
+</p>
+
+---
+
 ### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application. Join QLP competition by presenting the project to HOD and get recognition.
