@@ -44,7 +44,7 @@
 ---
 
 ### BW Pop station (2013)
-<img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
+<img src="images/bwpop2_2013.png?raw=true" height="250px" />
 <p>Develop POS system alike app, to scan product barcode for start and end process.
   <br>
   <br>  
