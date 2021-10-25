@@ -10,7 +10,7 @@
 <p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
   <br>
   <br>
-  <b>Coding Language:</b> <i>ASP.NET/C#, Javascript</i>
+  <b>Coding Language:</b> <i>ASP.NET/C#, Javascript</i><br>
   <b>Database:</b> <i>MySQL</i>  
 </p>
 
