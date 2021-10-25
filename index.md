@@ -2,12 +2,21 @@
 
 ---
 
-### Web Based Application Development 
-<b>Sales Ordering System</b>
-<p>Developed on 2008 for Gosford Leather Industries, internal system for sales person to key-in order from worldwide customer.
+### Web Based Application Development And Maintenance
+<b>Sales Ordering System (2008)</b>
+<p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
 <br>
   Coding Language: ASP.NET/C#
 </p>
+
+---
+
+<b>Sales System (2010)</b>
+<p>Maintain for Kiswire Cord SDN BHD, in-house system for sales/shipping person to key in order and generate reports.
+<br>
+  Coding Language: ASP.NET/C#, Infragistics Components
+</p>
+
 
 
 [Project 1 Title](/sample_page)
