@@ -2,7 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Web Based Application Development 
+<b>Sales Ordering System</b>
+<p>Developed on 2008 for Gosford Leather Industries, internal system for sales person to key-in order from worldwide customer.
+<br>
+  Coding Language: ASP.NET/C#
+</p>
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
