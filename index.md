@@ -47,7 +47,7 @@
   <b>Protocols:</b> <i>Modbus TCP</i>
 </p>
 
-## Infographic
+## My Infographic
 
 <img src="images/1.png?raw=true"/><br>
 <img src="images/2.png?raw=true"/><br>
@@ -55,7 +55,7 @@
 <img src="images/4.png?raw=true"/><br>
 <img src="images/5.png?raw=true"/><br>
 
-<b>[Download My Infographic](/pdf/adib_infographic_2020.pdf)</b><br>
+<b>[Download My Infographic](/pdf/adib_infographic_latest.pdf)</b><br>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
