@@ -11,7 +11,7 @@
 
 ---
 
-<b>KCSB Sales System (2010)</b>
+<b>KCSB Sales System (2010)</b><br>
 <img src="images/kcsb_sales_system_2010.png?raw=true"/>
 <p>Maintain and develop addon page for Kiswire Cord SDN BHD in-house system. Used in sales/shipping to record keyed-in order/shipment and generate reports.
 <br>
