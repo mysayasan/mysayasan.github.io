@@ -2,6 +2,18 @@
 
 ---
 
+## Profile
+
+---
+
+## Developed Skills
+
+---
+
+## Carrier Development
+
+---
+
 ## Projects Involvement
 
 ---
