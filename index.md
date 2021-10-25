@@ -79,7 +79,7 @@
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#), Devexpress component</i><br>
   <b>OS:</b> <i>Windows 7, Windows Server 2008 R2</i><br>
-  <b>Devices:</b> <i>Desktop PC, Various LSIS PLCs</i><br>
+  <b>Devices:</b> <i>HP Server, Desktop PC, Various LSIS PLCs</i><br>
   <b>Architecture:</b> <i>Client-Server</i><br>
   <b>Communication:</b> <i>Ethernet, LSIS XGT Protocol</i><br>
   <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
@@ -94,13 +94,29 @@
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#), Devexpress component</i><br>
   <b>OS:</b> <i>Windows 7, Windows Server 2008 R2</i><br>
-  <b>Devices:</b> <i>Desktop PC, Various LSIS PLCs</i><br>
+  <b>Devices:</b> <i>HP Server, Desktop PC, Various LSIS PLCs</i><br>
   <b>Architecture:</b> <i>Client-Server</i><br>
   <b>Communication:</b> <i>Ethernet, Modbus TCP Protocol</i><br>
   <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
 </p>
 
 ---
+
+### PLC Control Module (2017)
+<img src="images/pcm_2017.png?raw=true" height="250px" />
+<p>Fork from TBR Machine monitoring system gathering program, adding new features that has writing (preset multiple register) capability to PLC. Build specifically for Kiswire Cord Vietnam packing process, to prevent products from entering packing room without scanning.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#)</i><br>
+  <b>OS:</b> <i>Windows 7, Windows Server 2008 R2</i><br>
+  <b>Devices:</b> <i>HP Server, Various LSIS PLCs, LSIS HMI, 1D Barcode scanner</i><br>
+  <b>Architecture:</b> <i>Client-Server</i><br>
+  <b>Communication:</b> <i>Ethernet, Modbus TCP Protocol</i><br>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
+</p>
+
+---
+
 
 ### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
