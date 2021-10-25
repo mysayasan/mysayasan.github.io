@@ -5,7 +5,8 @@
 ### Web Based Application Development And Maintenance
 <b>Sales Ordering System (2008)</b>
 <p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
-<br>
+  <br>
+  <br>
   <b>Coding Language:</b> <i>ASP.NET/C#, Javascript</i>
 </p>
 
@@ -14,17 +15,19 @@
 <b>KCSB Sales System (2010)</b><br>
 <img src="images/kcsb_sales_system_2010.png?raw=true" height="250px" />
 <p>Maintain and develop addon page for Kiswire Cord SDN BHD in-house system. Used in sales/shipping to record keyed-in order/shipment and generate reports.
-<br>
+  <br>
+  <br>  
   <b>Coding Language:</b> <i>ASP.NET/C#, Infragistics Components</i>
 </p>
 
 ---
 
-<b>CIM Web Approval System (2018)</b><br>
+<b>[CIM Web Approval System (2018)(https://cimweb.kiswire.com.my)</b><br>
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
   Join QLP competition by presenting the project to HOD and get recognition.
-<br>
+  <br>
+  <br>  
   <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i>
 </p>
 
