@@ -104,7 +104,7 @@
 
 ### PLC Control Module (2017)
 <img src="images/pcm_2017.png?raw=true" height="250px" />
-<p>Fork from TBR Machine monitoring system gathering program, adding new features that has writing (preset multiple register) capability to PLC. Build specifically for Kiswire Cord Vietnam packing process, to prevent products from entering packing room without scanning.
+<p>Fork from TBR Machine monitoring system gathering program, adding new features that has writing (preset multiple register) capability to PLC. Build specifically for Kiswire Cord Vietnam packing process, to prevent products from entering packing room without scanning its barcode.
   <br>
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#)</i><br>
