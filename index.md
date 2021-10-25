@@ -74,7 +74,7 @@
 
 ### TBR Machine Monitoring System (2016, Winner in Kiswire Global QCC competition 2016)
 <img src="images/tbr_machine_mon_2016.png?raw=true" height="250px" />
-<p>Team development (sole programmer) TBR Machine monitoring system to monitor machine running condition is within the specification. System will record machine condition into the database and will be analysed for future improvement, preventive maintenance could be done beforehand rather than to perform corrective maintenance. The system was then brought the attention of CPO and joined Kiswire Global QCC competition which had won first prize.
+<p>TBR Machine monitoring system is a team development project to monitor machines running condition are within its specification. System will record machine condition into the database and will be analysed for future improvement, preventive maintenance could be done beforehand rather than to perform corrective maintenance. The system was then brought the attention to CPO and joined Kiswire Global QCC competition which had won first prize.
   <br>
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#), Devexpress component</i><br>
