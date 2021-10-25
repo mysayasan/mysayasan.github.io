@@ -1,13 +1,3 @@
-## Infographic
-
-### Introduction & Major Milestone
-
-<img src="images/1.png?raw=true"/><br>
-<img src="images/2.png?raw=true"/><br>
-<img src="images/3.png?raw=true"/><br>
-<img src="images/4.png?raw=true"/><br>
-<img src="images/5.png?raw=true"/><br>
-
 ## Portfolio
 
 ---
@@ -55,9 +45,17 @@
   <b>Coding Language:</b> <i>Golang, Plain HTML with Javascript</i><br>
   <b>Architecture:</b> <i>Autonic Sensor, LSIS PLC, Ethernet, Websocket, Golang Microservice</i><br>
   <b>Protocols:</b> <i>Modbus TCP</i>
-  
-  
 </p>
+
+## Infographic
+
+<img src="images/1.png?raw=true"/><br>
+<img src="images/2.png?raw=true"/><br>
+<img src="images/3.png?raw=true"/><br>
+<img src="images/4.png?raw=true"/><br>
+<img src="images/5.png?raw=true"/><br>
+
+<b>[Download My Infographic](/pdf/adib_infographic_2020.pdf)</b><br>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
