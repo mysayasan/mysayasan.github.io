@@ -29,8 +29,7 @@
 
 ### KCSB Production System (2010)
 <img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
-<p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory.<br>
-  System features includes, production planning, product tracking, product quality checking, shipping and various reports.
+<p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory. System features includes, production planning, product tracking, product quality checking, shipping and various reports.
   <br>
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Powerbuilder DataWindow.Net, Custom Korean dataview components, ZPL Language</i><br>
@@ -60,9 +59,7 @@
 
 ### E-Coupon V2 (2015)
 <img src="images/ecoupon_v2_2015.png?raw=true" height="250px" />
-<p>Develop POS system alike app, to buy food from the canteen by using fingerprint scanner.<br>
-  Coupon are credited into employee account once completed after 8 hour cycle per day of work,<br>
-  the amount will be deducted once employees place their fingerprint on the device and completed the transaction.
+<p>Develop POS system alike app, to buy food from the canteen by using fingerprint scanner. Coupon are credited into employee account once completed after 8 hour cycle per day of work, the amount will be deducted once employees place their fingerprint on the device and completed the transaction.
   <br>
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Biostar API (device interfacing)</i><br>
@@ -77,10 +74,7 @@
 
 ### TBR Machine Monitoring System (2016, Winner in Kiswire Global QCC competition 2016)
 <img src="images/tbr_machine_mon_2016.png?raw=true" height="250px" />
-<p>Team development (sole programmer) TBR Machine monitoring system to monitor machine running condition is within the specification. 
-  System will record machine condition into the database and will be analysed for future improvement, 
-  preventive maintenance could be done beforehand rather than to perform corrective maintenance. 
-  The system was then brought the attention of CPO and joined Kiswire Global QCC competition which had won the First prize.  
+<p>Team development (sole programmer) TBR Machine monitoring system to monitor machine running condition is within the specification. System will record machine condition into the database and will be analysed for future improvement, preventive maintenance could be done beforehand rather than to perform corrective maintenance. The system was then brought the attention of CPO and joined Kiswire Global QCC competition which had won first prize.
   <br>
   <br>  
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#), Devexpress component</i><br>
@@ -95,8 +89,7 @@
 
 ### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
-<p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
-  Join QLP competition by presenting the project to HOD and get recognition.
+<p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application. Join QLP competition by presenting the project to HOD and get recognition.
   <br>
   <br>  
   <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i><br>
