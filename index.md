@@ -145,7 +145,37 @@
 
 ---
 
-### My Infographic
+### Kiswire Federated Authentication System (2020-Present)
+<p>Develop Kiswire Federated Authentication System for single sign-on like method. The purpose of the system is to eliminate multiple login credential that causing problem for employees to login into different programs at a time.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>Golang, ReactJS</i><br>
+  <b>OSes:</b> <i>RHEL 8</i><br>
+  <b>Devices:</b> <i>Dell Server</i><br>
+  <b>Architecture:</b> <i>Microservices, SPA</i><br>
+  <b>Protocols:</b> <i>Https, http, websocket</i><br>
+  <b>Communication:</b> <i>Ethernet, WiFi, Internet</i><br>
+  <b>Database:</b> <i>MySQL</i>  
+</p>
+
+---
+
+### Kiswire SEA Sales System (2020-Present)
+<p>Develop Kiswire SEA Sales system, consolidating between two system (rubber and non-rubber) to create a standards packed with features. Ongoing project, on-hold during lockdown due to not enough manpower and changes in business planning.
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>Golang, ReactJS</i><br>
+  <b>OSes:</b> <i>RHEL 8</i><br>
+  <b>Devices:</b> <i>Dell Server</i><br>
+  <b>Architecture:</b> <i>Microservices, SPA</i><br>
+  <b>Protocols:</b> <i>Https, http, websocket</i><br>
+  <b>Communication:</b> <i>Ethernet, WiFi, Internet</i><br>
+  <b>Database:</b> <i>MySQL, MSSQL (Core)</i>  
+</p>
+
+---
+
+## My Infographic
 
 ---
 
