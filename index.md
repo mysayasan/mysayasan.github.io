@@ -22,7 +22,7 @@
 
 ---
 
-<b>[CIM Web Approval System (2018)(https://cimweb.kiswire.com.my)</b><br>
+[CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
   Join QLP competition by presenting the project to HOD and get recognition.
