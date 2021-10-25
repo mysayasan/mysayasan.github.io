@@ -43,7 +43,7 @@
   <br>
   <br>  
   <b>Coding Language:</b> <i>Golang, Plain HTML with Javascript</i><br>
-  <b>Architecture:</b> <i>Autonic Sensor, LSIS PLC, Ethernet, Websocket, Golang Microservice</i>
+  <b>Architecture:</b> <i>Autonic Sensor, LSIS PLC, Ethernet, Websocket, Golang Microservice</i><br>
   <b>Protocols:</b> <i>Modbus TCP</i>
   
   
