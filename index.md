@@ -2,20 +2,9 @@
 
 ---
 
-### My Infographic
+### Projects Involved
 
 ---
-
-<img src="images/1.png?raw=true"/><br>
-<img src="images/2.png?raw=true"/><br>
-<img src="images/3.png?raw=true"/><br>
-<img src="images/4.png?raw=true"/><br>
-<img src="images/5.png?raw=true"/><br>
-
-<b>[Download My Infographic](/pdf/adib_infographic_latest.pdf)</b><br>
-
----
-
 
 <b>Sales Ordering System (2008)</b>
 <p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
@@ -59,29 +48,19 @@
 
 ---
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### My Infographic
 
 ---
 
-### Category Name 2
+<img src="images/1.png?raw=true"/><br>
+<img src="images/2.png?raw=true"/><br>
+<img src="images/3.png?raw=true"/><br>
+<img src="images/4.png?raw=true"/><br>
+<img src="images/5.png?raw=true"/><br>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<b>[Download My Infographic](/pdf/adib_infographic_latest.pdf)</b><br>
 
 ---
-
 
 
 
