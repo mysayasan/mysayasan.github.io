@@ -18,7 +18,15 @@
   <b>Coding Language:</b> <i>ASP.NET/C#, Infragistics Components</i>
 </p>
 
+---
 
+<b>CIM Web Approval System (2018)</b><br>
+<img src="images/cimweb_2018.png?raw=true" height="250px" />
+<p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
+  Join QLP competition by presenting the project to HOD and get recognition.
+<br>
+  <b>Coding Language:</b> <i>ASP.NET MVC/C#, Bootstrap, JQuery</i>
+</p>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
