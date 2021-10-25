@@ -75,6 +75,24 @@
 
 ---
 
+### TBR Machine Monitoring System (2016, Winner in Kiswire Global QCC competition 2016)
+<img src="images/tbr_machine_mon_2016.png?raw=true" height="250px" />
+<p>Team development (sole programmer) TBR Machine monitoring system to monitor machine running condition is within the specification. 
+  System will record machine condition into the database and will be analysed for future improvement, 
+  preventive maintenance could be done beforehand rather than to perform corrective maintenance. 
+  The system was then brought the attention of CPO and joined Kiswire Global QCC competition which had won the First prize.  
+  <br>
+  <br>  
+  <b>Coding Language:</b> <i>C#, DotNet 4.5, Socket Programming (C#), Devexpress component</i><br>
+  <b>OS:</b> <i>Windows 7, Windows Server 2008 R2</i><br>
+  <b>Devices:</b> <i>Desktop PC, Various LSIS PLCs</i><br>
+  <b>Architecture:</b> <i>Client-Server</i><br>
+  <b>Communication:</b> <i>Ethernet, LSIS XGT Protocol</i><br>
+  <b>Database:</b> <i>MSSQL, Stored Procedure</i>  
+</p>
+
+---
+
 ### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application<br>
