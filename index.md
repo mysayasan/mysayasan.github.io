@@ -2,7 +2,7 @@
 
 ---
 
-## Profile
+# Profile
 ### Muhammad Adib Bin Ahmad
 <p>
   Born 1983, starts scripting at the age of 13 (mIRC). Happily married man with three lovely daughters, lives in Malaysia, Johor. Loves to codes and play with devboard during free time, sometimes jog and cycle, spend most of the time with family. 
@@ -10,7 +10,7 @@
 
 ---
 
-## Career Development
+# Career Development
 <p>Currently working as an <b>Assistant IT Manager</b> at Kiswire SEA, one of the multi-national wire manufacturing companies headquartered in Busan, Korea.<br>
 <b>Quoted as `The best programmer in Southeast Asia Regional HQ data processing team`</b> - <i>Kiswire Mag vol 219 p47</i>
 </p>
@@ -59,7 +59,7 @@
 
 ---
 
-## Projects Involvement
+# Projects Involvement
 
 ### Sales Order System (2008)
 <p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
@@ -241,7 +241,7 @@
 
 ---
 
-## Academics & Trainings
+# Academics & Trainings
 
 ### Diploma in Computer Science/Information Technology (2001-2004)
 <p>
@@ -320,7 +320,7 @@
 
 ---
 
-## My Infographic
+# My Infographic
 
 ---
 
