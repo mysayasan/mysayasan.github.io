@@ -18,10 +18,11 @@
 
 ---
 
-## Active Programming Skilss
-
-
 ## Carrier Development
+
+---
+
+## Academics
 
 ---
 
