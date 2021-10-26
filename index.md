@@ -10,7 +10,7 @@
 
 ---
 
-## Developed Skills
+## Skills Development Timeline
 
 ---
 
