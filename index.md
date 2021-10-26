@@ -5,7 +5,8 @@
 ## Profile
 ### Muhammad Adib Bin Ahmad
 <p>
-  Born 1983, starts scripting at the age of 13 (mIRC). Happily married man with three lovely daughters, lives in Malaysia, Johor. Loves to codes and play with devboard during free time, sometimes jog and cycling, spend most of the time with family.
+  Born 1983, starts scripting at the age of 13 (mIRC). Happily married man with three lovely daughters, lives in Malaysia, Johor. Loves to codes and play with devboard during free time, sometimes jog and cycling, spend most of the time with family.<br>
+  Working as an Assistant IT Manager at Kiswire SEA, one of the global wire manufacturing company headquartered in Busan, Korea. The best programmer in Southeast Asia Regional HQ data processing team - <i>Kiswire Mag vol 219 p47</i>
 </p>
 
 ---
