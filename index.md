@@ -3,7 +3,10 @@
 ---
 
 ## Profile
-
+### Muhammad Adib Bin Ahmad
+<p>
+  Born 1983, starts scripting at the age of 13 (mIRC). Happily married man with three lovely daughters, lives in Malaysia, Johor. Loves to codes and play with devboard during free time, sometimes jog and cycling, spend most of the time with family.
+</p>
 ---
 
 ## Developed Skills
