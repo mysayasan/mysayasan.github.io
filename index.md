@@ -61,7 +61,7 @@
 
 ## Projects Involvement
 
-* Sales Order System (2008)
+### Sales Order System (2008)
 <p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
   <br>
   <b>Coding Language:</b> <i>ASP.NET/C#, Javascript</i><br>
@@ -69,7 +69,9 @@
 </p>
 <br>
 
-* KCSB Sales System (2010)
+---
+
+### KCSB Sales System (2010)
 <img src="images/kcsb_sales_system_2010.png?raw=true" height="250px" />
 <p>Maintain and develop addon page for Kiswire Cord SDN BHD in-house system. Used in sales/shipping to record keyed-in order/shipment and generate reports.
   <br>
@@ -78,7 +80,9 @@
 </p>
 <br>
 
-* KCSB Production System (2010)
+---
+
+### KCSB Production System (2010)
 <img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
 <p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory. System features includes, production planning, product tracking, product quality checking, shipping and various reports.
   <br>
@@ -91,7 +95,9 @@
 </p>
 <br>
 
-* BW Pop station (2013)
+---
+
+### BW Pop station (2013)
 <img src="images/bwpop2_2013.png?raw=true" height="250px" />
 <p>Develop pop station application, to scan product barcode from start and end process.
   <br>
@@ -104,7 +110,9 @@
 </p>
 <br>
 
-* E-Coupon V2 (2015)
+---
+
+### E-Coupon V2 (2015)
 <img src="images/ecoupon_v2_2015.png?raw=true" height="250px" />
 <p>Develop POS system alike app, to buy food from the canteen by using fingerprint scanner. Coupon are credited into employee account once completed after 8 hour cycle per day of work, the amount will be deducted once employees place their fingerprint on the device and completed the transaction.
   <br>  
@@ -117,7 +125,9 @@
 </p>
 <br>
 
-* TBR Machine Monitoring System (2016, Winner in Kiswire Global QCC competition 2016)
+---
+
+### TBR Machine Monitoring System (2016, Winner in Kiswire Global QCC competition 2016)
 <img src="images/tbr_machine_mon_2016.png?raw=true" height="250px" />
 <p>TBR Machine monitoring system is a team development project to monitor machines running condition are within its specification. System will record machine condition into the database and will be analysed for future improvement, preventive maintenance could be done beforehand rather than to perform corrective maintenance. The system was then brought the attention to CPO and joined Kiswire Global QCC competition which had won first prize.
   <br>
@@ -130,7 +140,9 @@
 </p>
 <br>
 
-* Machine Start/Stop Monitoring System (2017)
+---
+
+### Machine Start/Stop Monitoring System (2017)
 <img src="images/mach_start_stop_2017.png?raw=true" height="250px" />
 <p>Develop machine start/stop monitoring system for all factories in Malaysia. The purpose of the system is to analyse the efficiency of the machines and repeated breakdown on the same machine. The program helps increase in productivity and made able to achieve production target.
   <br>
@@ -143,7 +155,9 @@
 </p>
 <br>
 
-* PLC Control Module (2017)
+---
+
+### PLC Control Module (2017)
 <img src="images/pcm_2017.png?raw=true" height="250px" />
 <p>Fork from TBR Machine monitoring system gathering program, adding new features that has writing (preset multiple register) capability to PLC. Build specifically for Kiswire Cord Vietnam packing process, to prevent products from entering packing room without scanning its barcode.
   <br>
@@ -156,8 +170,9 @@
 </p>
 <br>
 
+---
 
-* [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
+### [CIM Web Approval System (2018)](https://cimweb.kiswire.com.my)
 <img src="images/cimweb_2018.png?raw=true" height="250px" />
 <p>Develop for Kiswire SDN BHD in-house system. Convert from window based approval application to web based approval application. Join QLP competition by presenting the project to HOD and get recognition.
   <br>
@@ -166,7 +181,9 @@
 </p>
 <br>
 
-* Server Room Temp and Humidity Monitoring (2020)
+---
+
+### Server Room Temp and Humidity Monitoring (2020)
 <img src="images/kiswmon_2020.png?raw=true" height="250px" />
 <p>Develop server temp/humid monitoring app for Server room in Kiswire SEA. Used to alert and monitor current temperature/humid for server rooms to prevent overheat and too humid.
   <br>
@@ -181,7 +198,9 @@
 </p>
 <br>
 
-* Kiswire Federated Authentication System (2020-Present)
+---
+
+### Kiswire Federated Authentication System (2020-Present)
 <p>Develop Kiswire Federated Authentication System for single sign-on like method. The purpose of the system is to eliminate multiple login credential that causing problem for employees to login into different programs at a time.
   <br>
   <b>Coding Language:</b> <i>Golang, ReactJS</i><br>
@@ -194,7 +213,9 @@
 </p>
 <br>
 
-* Kiswire SEA Sales System (2020-Present)
+---
+
+### Kiswire SEA Sales System (2020-Present)
 <p>Develop Kiswire SEA Sales system, consolidating between two system (rubber and non-rubber) to create a standards packed with features. Ongoing project, on-hold during lockdown due to not enough manpower and changes in business planning.
   <br>
   <b>Coding Language:</b> <i>Golang, ReactJS</i><br>
