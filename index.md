@@ -6,7 +6,7 @@
 
 ### Muhammad Adib Bin Ahmad
 <p>
-  Born 1983, starts scripting at the age of 13 (mIRC). Happily married man with three lovely daughters, lives in Malaysia, Johor. Loves to codes and play with devboard during free time, sometimes jog and cycle, spend most of the time with family. 
+  Born in 1983, starts scripting for fun at the age of 13 (mIRC). Happily married man with three lovely daughters, lives in Malaysia, Johor. Loves to codes and play with devboard during free time, sometimes jog and cycle, spend most of the time with family. 
 </p>
 
 ---
@@ -194,7 +194,7 @@
 
 ### Server Room Temp and Humidity Monitoring (2020)
 <img src="images/kiswmon_2020.png?raw=true" height="250px" />
-<p>Develop server temp/humid monitoring app for Server room in Kiswire SEA. Used to alert and monitor current temperature/humid for server rooms to prevent overheat and too humid.
+<p>Develop server temp/humid monitoring app for Server room in Kiswire SEA. Function is to alert and monitor current temperature/humid for server rooms to prevent overheat or too humid.
   <br>
   <br>
   <b>Coding Language:</b> <i>Golang, Plain HTML with Javascript</i><br>
@@ -211,7 +211,7 @@
 ---
 
 ### Kiswire Federated Authentication System (2020-Present)
-<p>Develop Kiswire Federated Authentication System for single sign-on like method. The purpose of the system is to eliminate multiple login credential that causing problem for employees to login into different programs at a time.
+<p>Develop Kiswire Federated Authentication System for single sign-on like concept. The purpose of the system is to eliminate multiple login credential that causing problem for employees to login into different programs at a time.
   <br>
   <br>
   <b>Coding Language:</b> <i>Golang, ReactJS</i><br>
