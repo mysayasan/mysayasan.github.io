@@ -12,7 +12,7 @@
 
 ## Career Development
 <p>Currently working as an <b>Assistant IT Manager</b> at Kiswire SEA, one of the multi-national wire manufacturing companies headquartered in Busan, Korea.<br>
-<b>Quoted as "The best programmer in Southeast Asia Regional HQ data processing team"</b> - <i>Kiswire Mag vol 219 p47</i>
+<b>Quoted as `The best programmer in Southeast Asia Regional HQ data processing team`</b> - <i>Kiswire Mag vol 219 p47</i>
 </p>
 
 <br>
