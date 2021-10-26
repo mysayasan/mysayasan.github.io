@@ -15,6 +15,7 @@
 ---
 
 <img src="images/developed_skills_1.png?raw=true"/><br>
+<img src="images/developed_skills_2.png?raw=true"/><br>
 
 ---
 
