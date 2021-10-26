@@ -14,6 +14,10 @@
 
 ---
 
+<img src="images/developed_skills_1.png?raw=true"/><br>
+
+---
+
 ## Carrier Development
 
 ---
