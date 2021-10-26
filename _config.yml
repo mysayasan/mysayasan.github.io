@@ -3,7 +3,13 @@ logo: "/images/me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Muhammad Adib Ahmad</b> born on 1983 is an accomplished programmer, software engineer, a devboard hobbyist and a tech enthusiasts.
   <br><br>     
-  <a href="#profile">Profile</a>
+  <ul>
+  <li><a href="#profile">Profile</a></li>
+  <li><a href="#career">Career Development</a></li>
+  <li><a href="#project">Projects Involvement</a></li>
+  <li><a href="#academic">Academics & Training</a></li>
+  <li><a href="#infographic">My Inforgraphic</a></li>
+  <ul>
   <br><br>     
   <a href="https://www.linkedin.com/in/mysayasan/">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
