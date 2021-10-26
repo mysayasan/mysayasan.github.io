@@ -15,6 +15,8 @@
 <b>"The best programmer in Southeast Asia Regional HQ data processing team"</b> - <i>Kiswire Mag vol 219 p47</i>
 </p>
 
+<br>
+
 ### Web Designer (2007-2008)
 <p>
   <b>Company:</b> Rank Alpha Technologies SDN BHD<br>
