@@ -12,7 +12,26 @@
 
 ## Career Development
 
-Currently working as an Assistant IT Manager at Kiswire SEA, one of the global wire manufacturing company headquartered in Busan, Korea. "The best programmer in Southeast Asia Regional HQ data processing team" - <i>Kiswire Mag vol 219 p47</i>
+### Web Designer (2007)
+<p>
+  <b>Company:</b> Rank Alpha Technologies SDN BHD<br>
+  <b>Nature Of Business:</b> Software Development<br>
+  <b>Period:</b> 2007-2008 (1 year)     
+</p>
+
+### Web Developer (2007)
+<p>
+  <b>Company:</b> Gosford Leather Industries SDN BHD<br>
+  <b>Nature Of Business:</b> Manufacturing<br>
+  <b>Period:</b> 2008-2009 (1 year)  
+</p>
+
+### Jr. IT Exec ~ Asst. IT Manager (2009-Present)
+<p>
+  <b>Company:</b> Kiswire Cord SDN BHD<br>
+  <b>Nature Of Business:</b> Manufacturing<br>
+  <b>Period:</b> 2009-Present (12 year)  
+</p>
 
 <img src="images/career_dev.png?raw=true"/><br>
 
