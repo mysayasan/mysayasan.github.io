@@ -12,12 +12,14 @@
 
 ## Skills Development Timeline
 
----
-
 <img src="images/developed_skills_1.png?raw=true"/><br>
 <img src="images/developed_skills_2.png?raw=true"/><br>
+<img src="images/developed_skills_3.png?raw=true"/><br>
 
 ---
+
+## Active Programming Skilss
+
 
 ## Carrier Development
 
