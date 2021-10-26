@@ -61,7 +61,14 @@
 
 ## Academics & Trainings
 
-
+### Diploma in Computer Science/Information Technology (2007-2008)
+<p>
+  <b>Institution:</b> Pusat Teknologi dan Pengurusan Lanjutan<br>
+  <b>Period:</b> 3 Years<br>
+  <b>Achievements: </b> CGPA 3.18 (2 times dean's list)    
+</p>
+<img src="images/sem1.png?raw=true" height="250px" /><br>
+<img src="images/sem2.png?raw=true" height="250px" /><br>
 
 ---
 
