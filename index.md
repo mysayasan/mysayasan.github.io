@@ -10,8 +10,7 @@
 </p>
 
 ---
-
-# Career Development
+<h1 id="career">Career Development</h1>
 <p>Currently working as an <b>Assistant IT Manager</b> at Kiswire SEA, one of the multi-national wire manufacturing companies headquartered in Busan, Korea.<br>
 <b>Quoted as `The best programmer in Southeast Asia Regional HQ data processing team`</b> - <i>Kiswire Mag vol 219 p47</i>
 </p>
@@ -60,7 +59,7 @@
 
 ---
 
-# Projects Involvement
+<h1 id="project">Projects Involvement</h1>
 
 ### Sales Order System (2008)
 <p>Developed for Gosford Leather Industries, in-house system for sales person to key-in order from worldwide customer.
@@ -242,7 +241,7 @@
 
 ---
 
-# Academics & Trainings
+<h1 id="academic">Academics & Trainings</h1>
 
 ### Diploma in Computer Science/Information Technology (2001-2004)
 <p>
@@ -313,9 +312,7 @@
 
 ---
 
-# My Infographic
-
----
+<h1 id="infographic">My Infographic</h1>
 
 <img src="images/1.png?raw=true"/><br>
 <img src="images/2.png?raw=true"/><br>
