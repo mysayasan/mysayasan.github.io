@@ -24,12 +24,16 @@
   <b>Period:</b> 2007-2008 (1 year)     
 </p>
 
+<br>
+
 ### Web Developer (2008-2009)
 <p>
   <b>Company:</b> Gosford Leather Industries SDN BHD<br>
   <b>Nature Of Business:</b> Manufacturing<br>
   <b>Period:</b> 2008-2009 (1 year)  
 </p>
+
+<br>
 
 ### Jr. IT Exec ~ Asst. IT Manager (2009-Present)
 <p>
