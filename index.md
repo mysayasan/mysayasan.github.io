@@ -12,14 +12,14 @@
 
 ## Career Development
 
-### Web Designer (2007)
+### Web Designer (2007-2008)
 <p>
   <b>Company:</b> Rank Alpha Technologies SDN BHD<br>
   <b>Nature Of Business:</b> Software Development<br>
   <b>Period:</b> 2007-2008 (1 year)     
 </p>
 
-### Web Developer (2007)
+### Web Developer (2008-2009)
 <p>
   <b>Company:</b> Gosford Leather Industries SDN BHD<br>
   <b>Nature Of Business:</b> Manufacturing<br>
