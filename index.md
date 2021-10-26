@@ -14,6 +14,11 @@
 
 <img src="images/career_dev.png?raw=true"/><br>
 
+### Awards
+<img src="images/qlp_2018.png?raw=true"/><br>
+<img src="images/bestcontrib_2018.png?raw=true"/><br>
+<img src="images/10years.png?raw=true"/><br>
+
 ---
 
 ## Skills Development Timeline
