@@ -11,6 +11,7 @@
 ---
 
 ## Career Development
+<p>Currently working as an <b>Assistant IT Manager</b> at Kiswire SEA, one of the global wire manufacturing company headquartered in Busan, Korea.</p>
 
 ### Web Designer (2007-2008)
 <p>
