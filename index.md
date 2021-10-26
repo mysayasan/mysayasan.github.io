@@ -261,14 +261,6 @@
 </p>
 <br>
 
-### Bachelor Degree in Network Programming  (2004-2006)
-<p>
-  <b>Institution:</b> KUTPM now known as MSU<br>
-  <b>Period:</b> 2 years<br>
-  <b>Achievements: </b> Drop out on 5th semester (Personal matter)   
-</p>
-<br>
-
 ### Training: KPS Training (2013)
 <p>
   <b>Institution:</b> In-House Kiswire HQ<br>
