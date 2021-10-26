@@ -61,14 +61,80 @@
 
 ## Academics & Trainings
 
-### Diploma in Computer Science/Information Technology (2007-2008)
+### Diploma in Computer Science/Information Technology (2001-2004)
 <p>
   <b>Institution:</b> Pusat Teknologi dan Pengurusan Lanjutan<br>
   <b>Period:</b> 3 Years<br>
   <b>Achievements: </b> CGPA 3.18 (2 times dean's list)    
 </p>
-<img src="images/sem1.png?raw=true" height="250px" /><br>
 <img src="images/sem2.png?raw=true" height="250px" /><br>
+<img src="images/sem4.png?raw=true" height="250px" /><br>
+<br>
+
+### Bachelor Degree in Network Programming  (2004-2006)
+<p>
+  <b>Institution:</b> KUTPM now known as MSU<br>
+  <b>Period:</b> 2 years<br>
+  <b>Achievements: </b> Drop out on 5th semester (Personal matter)   
+</p>
+<br>
+
+### Bachelor Degree in Network Programming  (2004-2006)
+<p>
+  <b>Institution:</b> KUTPM now known as MSU<br>
+  <b>Period:</b> 2 years<br>
+  <b>Achievements: </b> Drop out on 5th semester (Personal matter)   
+</p>
+<br>
+
+### Training: KPS Training (2013)
+<p>
+  <b>Institution:</b> In-House Kiswire HQ<br>
+  <b>Period:</b> 9 days<br>  
+  <b>Remarks:</b> Toyota Production System Training (Visit to Toyota Museum, Motomachi Plant, Gifu Autobody, Sazaki Factory) and visit to Kiswire Pohang factory
+</p>
+<img src="images/visit_korea.jpg?raw=true" height="250px" /><br>
+<br>
+
+### Training: 5S Awareness Program  (2014)
+<p>
+  <b>Institution:</b> SixEmodel SDN BHD<br>
+  <b>Period:</b> 2 days<br>
+  <b>Achievements: </b> Cert of Achievement
+</p>
+<br>
+
+### Training: Creative Thinking & Problem Solving Training  (2015)
+<p>
+  <b>Institution:</b> Exalt Training & Consultancy SDN BHD<br>
+  <b>Period:</b> 2 days<br>
+  <b>Achievements: </b> Cert of Attendance
+</p>
+<br>
+
+### Training: Siemens - Basic PLC Training  (2017)
+<p>
+  <b>Institution:</b> FMM Institute<br>
+  <b>Period:</b> 2 days<br>
+  <b>Achievements: </b> Cert of Attendance
+</p>
+<br>
+
+### Training: MS20533 - Implementing Microsoft Azure Infrastructure Solutions (2018)
+<p>
+  <b>Institution:</b> Iverson<br>
+  <b>Period:</b> 5 days<br>
+  <b>Achievements: </b> Cert of completion
+</p>
+<br>
+
+### Training: RH124 - Red Hat System Administration 1 (2018)
+<p>
+  <b>Institution:</b> Iverson<br>
+  <b>Period:</b> 5 days<br>
+  <b>Achievements: </b> Cert of attendance
+</p>
+<br>
 
 ---
 
