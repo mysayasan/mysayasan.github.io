@@ -57,7 +57,7 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 <img src="images/developed_skills_2.png?raw=true"/><br>
 <img src="images/developed_skills_3.png?raw=true"/><br>
 
-### Other Skill set
+### Other Skill sets
 
 * Fair knowledge using Github, GitLab, Tortoise SVN
 * Able to setup and configure web servers IIS, Nginx (reverse proxy, app load balancer)
