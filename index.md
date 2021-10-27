@@ -57,6 +57,18 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 <img src="images/developed_skills_2.png?raw=true"/><br>
 <img src="images/developed_skills_3.png?raw=true"/><br>
 
+### Other Skill set
+
+* Fair knowledge using Github, GitLab, Tortoise SVN
+* Able to setup and configure web servers IIS, Nginx (reverse proxy, app load balancer)
+* Fair knowledge on SQLite, Mosquitto MQTT, SSH
+* Good experience with sbc and devboard, Raspi, Arduino, ESP32, ESP8266
+* Good experience with OS Windows 7, Windows 10, Windows Server 2008 R2, RHEL cli, Debian cli
+* Familiar with using application development tools, Postman, HeidiSQL, MQTTX, SimplyModbusTCPClient
+* Experience on other editor, Arduino, Vim, Notepad++
+
+<br>
+
 ---
 
 <h1 id="project">Projects Involvement</h1>
@@ -201,7 +213,7 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
   <b>OSes:</b> <i>RHEL 8</i><br>
   <b>Devices:</b> <i>Autonic Sensor, LSIS PLC (XBC-DR28U)</i><br>
   <b>Architecture:</b> <i>Microservices, SPA</i><br>
-  <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket</i><br>
+  <b>Protocols:</b> <i>Modbus TCP, TCP/IP, HTTP, Websocket, MQTT</i><br>
   <b>Communication:</b> <i>Ethernet, RS485 for sensor</i><br>
   <b>Database:</b> <i>MySQL, MSSQL (Datalogging)</i><br> 
   <b>Support Software:</b> <i>Mosquitto MQTT Broker, Node-RED, MailServer</i> 
