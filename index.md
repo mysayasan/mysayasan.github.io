@@ -272,7 +272,7 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
   <b>Database:</b> <i>MySQL</i>  
 </p>
 
-<img src="images/sayagrid_concept.png?raw=true" height="250px" /><br>
+<img src="images/sayagrid_concept.png?raw=true" /><br>
 
 ---
 
