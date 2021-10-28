@@ -62,10 +62,15 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 * Fair knowledge using Github, GitLab, Tortoise SVN
 * Able to setup and configure web servers IIS, Nginx (reverse proxy, app load balancer)
 * Fair knowledge on SQLite, Mosquitto MQTT, SSH
-* Good experience with sbc and devboard, Raspi, Arduino, ESP32, ESP8266
+* Fair experience with sbc and devboard, Raspi, Arduino, ESP32, ESP8266
 * Good experience with OS Windows 7, Windows 10, Windows Server 2008 R2, RHEL cli, Debian cli
 * Familiar with using application development tools, Postman, HeidiSQL, MQTTX, SimplyModbusTCPClient
 * Experience on other editor, Arduino, Vim, Notepad++
+
+<br>
+
+### Planning for next skillsets
+* LoRaWAN networking
 
 <br>
 
@@ -250,6 +255,24 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
   <b>Communication:</b> <i>Ethernet, WiFi, Internet</i><br>
   <b>Database:</b> <i>MySQL, MSSQL (Core)</i>  
 </p>
+
+---
+
+## Personal Project
+### Sayagrid (an IOT System) (2020-Present)
+<p>Developing an IOT based system by using devboard as device. The purpose of the project is to create a simple ecosystem for devboard to be controlled using centralized system which it can be automated, scheduled, or gathering raw data and stored for later use. The system concept is most likely resemble with Home-Assistant, but with lesser functions.
+  <br>
+  <br>
+  <b>Coding Language:</b> <i>Golang, ReactJS, C,C++ for devboard</i><br>
+  <b>Server:</b> <i>Debian based</i><br>
+  <b>Devices:</b> <i>Mini-Server, PC/Phone, Node MCU ESP32, Raspberry-PI3</i><br>
+  <b>Architecture:</b> <i>Microservices, SPA</i><br>
+  <b>Protocols:</b> <i>Https, http, websocket, mqtt</i><br>
+  <b>Communication:</b> <i>Ethernet, WiFi, Internet</i><br>
+  <b>Database:</b> <i>MySQL</i>  
+</p>
+
+<img src="images/sayagrid_concept.png?raw=true" height="250px" /><br>
 
 ---
 
