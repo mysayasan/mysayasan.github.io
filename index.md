@@ -98,7 +98,7 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 
 ### KCSB Production System (2010)
 <img src="images/kcsb_barcode_system_2010.png?raw=true" height="250px" />
-<p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory. System features includes, production planning, product tracking, product quality checking, shipping and various reports.
+<p>Joined development with Korean Programmer to build production system for Kiswire Steel Cord factory. System features includes, production planning, product tracking, product quality checking, product weighing, shipping and various reports.
   <br>
   <br>
   <b>Coding Language:</b> <i>C#, DotNet 4.5, Powerbuilder DataWindow.Net, Custom Korean dataview components, ZPL Language</i><br>
