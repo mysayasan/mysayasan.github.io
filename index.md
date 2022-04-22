@@ -228,6 +228,7 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 ---
 
 ### Kiswire Federated Authentication System (2020-Present)
+<img src="images/new_sales_2022.png?raw=true" height="250px" />
 <p>Develop Kiswire Federated Authentication System for single sign-on like concept. The purpose of the system is to eliminate multiple login credential that causing problem for employees to login into different programs at a time.
   <br>
   <br>
