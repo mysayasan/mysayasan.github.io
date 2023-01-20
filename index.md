@@ -338,7 +338,15 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 </p>
 <br>
 
-### Training: RH124 - Red Hat System Administration 1 (2018)
+### Training: RH124 - Red Hat System Administration 1 (2019)
+<p>
+  <b>Institution:</b> Iverson<br>
+  <b>Period:</b> 5 days<br>
+  <b>Achievements: </b> Cert of attendance
+</p>
+<br>
+
+### Training: CEH12 - Certified Ethical Hacker (2022)
 <p>
   <b>Institution:</b> Iverson<br>
   <b>Period:</b> 5 days<br>
