@@ -358,7 +358,7 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 <p>
   <b>Institution:</b> Hacker Rank<br>  
   <b>Achievements: </b> Assessment <br>
-  <b>Link: </b> <a href="https://www.hackerrank.com/certificates/iframe/e42d66aa0b33">Certificate</a>
+  <b>Link: </b> [https://www.hackerrank.com/certificates/iframe/e42d66aa0b33](https://www.hackerrank.com/certificates/e42d66aa0b33)
 </p>
 <br>
 
