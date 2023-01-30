@@ -354,6 +354,14 @@ Quoted as <b>"The best programmer in Southeast Asia Regional HQ data processing 
 </p>
 <br>
 
+### C# (Basic) Certificate (2023)
+<p>
+  <b>Institution:</b> Hacker Rank<br>  
+  <b>Achievements: </b> Assessment
+  <b>Link: </b> <a href="https://www.hackerrank.com/certificates/iframe/e42d66aa0b33">Certificate</a>
+</p>
+<br>
+
 ---
 
 <h1 id="infographic">My Infographic</h1>
